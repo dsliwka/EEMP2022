@@ -24,17 +24,17 @@ _Note: content will become available sequentially as the time of session approac
 -   Part 4: [Statistical Tests](content/part-4/part4.pdf)
 -   Part 5: [Predictions and Machine Learning](https://nbviewer.jupyter.org/github/jeshan49/EEMP2019/blob/master/content/part-5/sl2.ipynb)
 -   Part 6: [Regression and Causality](https://github.com/dsliwka/bms/blob/master/slides4Causality.pdf)
-%% -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)
-%% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)
+<!-- -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)-->
+<!-- %% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)-->
 
-%% **Note:** In case you have troubles loading the respective notebook on Github, try to use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.
+<!-- %% **Note:** In case you have troubles loading the respective notebook on Github, try to use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.-->
 
 
-%% ### Updates
+<!-- %% ### Updates-->
 
-%% - Part 1-4: [updates slides](https://github.com/dsliwka/bms/blob/master/part1to4update.pdf)
-%% - [Notebook to start with](https://github.com/dsliwka/bms/blob/master/Start.ipynb)
-%% - [Notebook for sales simulation with Fixed effects](https://github.com/dsliwka/bms/blob/master/SalesSimFE.ipynb)
+<!-- %% - Part 1-4: [updates slides](https://github.com/dsliwka/bms/blob/master/part1to4update.pdf)-->
+<!-- %% - [Notebook to start with](https://github.com/dsliwka/bms/blob/master/Start.ipynb)-->
+<!-- %% - [Notebook for sales simulation with Fixed effects](https://github.com/dsliwka/bms/blob/master/SalesSimFE.ipynb)-->
 
 
 ### Literature
@@ -54,5 +54,5 @@ _Note: content will become available sequentially as the time of session approac
 ### Data
 
 -   [Employee dataset](https://raw.githubusercontent.com/lemepe/EEMP/master/python_intro/Employee_data.csv)
-%% -   [Ockenfels/Sliwka/Werner (2015)](https://raw.githubusercontent.com/dsliwka/bms/master/libraryExpData.csv)
-%% -   [Default](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-5/part-5-1/Default.csv)
+<!-- %% -   [Ockenfels/Sliwka/Werner (2015)](https://raw.githubusercontent.com/dsliwka/bms/master/libraryExpData.csv)-->
+<!-- %% -   [Default](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-5/part-5-1/Default.csv)-->
