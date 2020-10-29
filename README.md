@@ -19,7 +19,7 @@ _Note: content will become available sequentially as the time of the session app
 
 -   Part 1: [Introduction to Python](./slides/introduction.pdf)
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
-    - [Quiz](./notebooks/EEMP_quiz.ipynb)
+    - [Exercises](./notebooks/EEMP_intro_ex.ipynb)
 -   Part 2: [Introduction to Empirical Evaluation of Management Practices](#)
 -   Part 3: [Regression Essentials](#)
 -   Part 4: [Statistical Tests](#)
