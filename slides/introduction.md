@@ -1,30 +1,59 @@
 
 ---
 title:
-- Empirical Evaluation of Management Practices
+- Empirical Evaluation of Management Practices I
 subtitle:
-- Introduction
+- Introduction to Python
 author:
+- Prof. Dr. Dirk Sliwka
 - Jesper Armouti-Hansen
+date:
+- 02/11/20
 theme:
 - Copenhagen
 ---
 
-# Section heading
+# Organizational Issues
++ Sessions (Lectures with integrated exercises):
+	+ Mondays: 14:00 - 15:30 and 16:00 - 17:30
+	+ Tuesdays: 10:00 - 11:[30](30)
 
-here is text
++ All sessions take place on Zoom (See ILIAS for instructions).
++ Exam:
+	+ Date: TBA!
+	+ Format: Remote.
++ Course website: [github.com/armoutihansen/EEMP2020](https://github.com/armoutihansen/EEMP2020)
 
-+ This is a list
-+ another item
-+ etc
+# Organizational Issues (Coding)
+For all our coding exercises as well as the exam (most likely), we will be using notebooks in Google Colab ([colab.research.google.com/](https://colab.research.google.com/)).
 
-\begin{equation}
-x = \frac{1}{2}
-\end{equation}
+If you have a functioning google account, you should be able to:
 
-# Section 2
++ Create new notebooks
++ Save notebooks to your Google Drive and open them again
++ Open notebooks from Github repositories
++ Share notebooks with your fellow students
 
-![A picture](test.png)
+Thus, make sure that you have a Google account!
 
-## Subsection
-Text
+# Working in groups
+When doing exercises in the lecture, you will work in groups of three in break-out rooms on Zoom:
+
++ The groups are randomly assigned by us and will stay the same throughout the course
++ Within groups you should share your google account email so that you are able to colaborate
++ We (the lectures) will go from room to room to check your progress and and answer your questions
+
+In order to create the groups and have them ready for the next lecture, please send your Zoom email to me (j.hansen@uni-koeln.de) today!
+
+# Questions
+
++ If the question is not urgent, please ask during the lecture
++ If urgent, write me an email (j.hansen@uni-koeln.de)
+
+# Today's agenda
+The goal of today's session is to give you a short overview of working with python for data analysis. This includes:
+
++ An overview of basic data structures and commands in python
++ Providing a toolkit for data analysis in python
+
+Note: Today's session is far from exhaustive. More packages, concepts and commands will be introduced later in the course.
