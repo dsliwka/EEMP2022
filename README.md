@@ -21,7 +21,7 @@ _Note: content will become available sequentially as the time of the session app
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
     - [Exercises](./notebooks/EEMP_intro_ex.ipynb)
 -   Part 1: Introduction to Empirical Evaluation of Management Practices
--   Part 2: [Regression Essentials](./slides/introduction.pdf)(./slides/Eval2020_1&2.pdf)
+-   Part 2: [Regression Essentials](./slides/Eval2020_1&2.pdf)
 -   Part 3: [Statistical Tests](./slides/Eval2020_3.pdf)
 -   Part 4: [Predictions and Machine Learning](#)
 -   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf)
