@@ -17,14 +17,14 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 
 _Note: content will become available sequentially as the time of the session approaches._
 
--   Part 1: [Introduction to Python](./slides/introduction.pdf)
+-   Part 0: [Introduction to Python](./slides/introduction.pdf)
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
     - [Exercises](./notebooks/EEMP_intro_ex.ipynb)
--   Part 2: [Introduction to Empirical Evaluation of Management Practices](#)
--   Part 3: [Regression Essentials](#)
--   Part 4: [Statistical Tests](#)
--   Part 5: [Predictions and Machine Learning](#)
--   Part 6: [Regression and Causality](#)
+-   Part 1: Introduction to Empirical Evaluation of Management Practices
+-   Part 2: [Regression Essentials](./slides/introduction.pdf)(./slides/Eval2020_1&2.pdf)
+-   Part 3: [Statistical Tests](./slides/Eval2020_3.pdf)
+-   Part 4: [Predictions and Machine Learning](#)
+-   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf)
 <!-- -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)-->
 <!-- %% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)-->
 
