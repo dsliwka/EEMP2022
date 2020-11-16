@@ -11,12 +11,22 @@ embed_minimal_html('export.html', views=[slider], title='Widgets export')
 path_to_data = 'https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-5/part-5-1/income.csv'
 df = pd.read_csv(path_to_data)
 
+
 # Plot of population of income as a function of age
+plt.clf()
+plt.scatter(x=df['age'],y=df['income'])
+plt.title('Population of income based on age')
+plt.xlabel('age')
+plt.ylabel('income')
+plt.savefig('../figures/fig4_1.png')
+
+# Plot of population of income as a function of age
+plt.clf()
 sns.regplot(x='age', y='income', data=df, order=2, ci=None,
-            scatter_kws={'color':'blue', 'alpha': 0.01},
-            line_kws={'color':'red', 'ls':'--'}).set_title('income as a function of age')
+            scatter_kws={'color':'blue'},
+            line_kws={'color':'red', 'ls':'--'}).set_title('Population of income based on age')
 plt.legend(labels=['f(x)=E[y|x]'])
-plt.savefig('../figures/population_income_age.png')
+plt.savefig('../figures/fig4_2.png')
 
 # Plot of sample of income as a function of age
 X, _, y, _ = train_test_split(df['age'], df['income'], test_size=0.99, random_state=181)
