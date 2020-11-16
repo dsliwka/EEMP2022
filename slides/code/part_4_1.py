@@ -3,10 +3,14 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 from sklearn.model_selection import train_test_split
-plt.rc('axes', titlesize=45)
-plt.rc('axes', labelsize=40)
-plt.rc('legend', fontsize=40)
-plt.style.use('seaborn-white')
+# plt.rc('axes', titlesize=45)
+# plt.rc('axes', labelsize=40)
+# plt.rc('legend', fontsize=40)
+# plt.rc('xtick', labelsize=30)
+# plt.rc('ytick', labelsize=30)
+# import matplotlib as mpl
+# mpl.rcParams['lines.linewidth'] = 2
+
 
 path_to_data = 'https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-5/part-5-1/income.csv'
 df = pd.read_csv(path_to_data)
