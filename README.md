@@ -11,7 +11,7 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ in the first term of the semester.
 -   Please note that _all_ sessions will take place in Zoom (See information on ILIAS).
 -   **Exam dates:**
-    -   _1st: TBA_
+    -   _1st: 08.12.20 (10:00 - 11:00) [Registration deadline: 30.11.20]_
 
 ### Course content
 
@@ -30,6 +30,7 @@ _Note: content will become available sequentially as the time of the session app
 	- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
+	- [Exercise solutions (decision trees and random forests)](./notebooks/exercises_dt_and_rf.ipynb)
 -   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf)
 <!-- -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)-->
 <!-- %% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)-->
