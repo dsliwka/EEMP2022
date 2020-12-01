@@ -32,6 +32,8 @@ _Note: content will become available sequentially as the time of the session app
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
 	- [Exercise solutions (decision trees and random forests)](./notebooks/exercises_dt_and_rf.ipynb)
+	- [Exercise solutions (case study 1)](./notebooks/exercises_case_study_1.ipynb)
+	- [Exercise solutions (case study 2)](./notebooks/exercises_case_study_2.ipynb)
 -   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf) UPDATE NOV, 30
 <!-- -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)-->
 <!-- %% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)-->
