@@ -12,6 +12,7 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 -   Please note that _all_ sessions will take place in Zoom (See information on ILIAS).
 -   **Exam dates:**
     -   _1st: 08.12.20 (10:00 - 11:00) [Registration deadline: 30.11.20]_
+-   [Mock exam](./mock_exam/WS1920_EEMP_exam_PT1.ipynb)
 
 ### Course content
 
