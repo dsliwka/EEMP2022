@@ -2,7 +2,7 @@
 
 ### University of Cologne
 
-#### Winter 2020/21
+#### Winter 2021/22
 
 _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 
