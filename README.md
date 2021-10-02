@@ -26,8 +26,8 @@ _Note: content will become available sequentially as the time of the session app
 	- [Video lecture 2](https://drive.google.com/file/d/1_ApPkeFhP--Vosbn4H0S91JJPa1VCBgV/view?usp=sharing)
 	- [Notebook](./notebooks/managementPractices.ipynb)
 -   Part 3: [Statistical Tests](./slides/Eval2020_3.pdf)
--   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf) UPDATE NOV, 30
--   Part 4: Predictions and Machine Learning<!--(./slides/Eval2020_4.pdf)-->
+-   Part 4: [Regression and Causality](./slides/Eval2020_5&6.pdf) UPDATE NOV, 30
+-   Part 5: Predictions and Machine Learning<!--(./slides/Eval2020_4.pdf)-->
 	<!--- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
