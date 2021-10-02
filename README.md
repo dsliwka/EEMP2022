@@ -11,9 +11,7 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ in the first term of the semester.
 -   Please note that _all_ sessions will take place in Zoom (See information on ILIAS).
 -   **Exam dates:**
-    -   _1st: 08.12.20 (10:00 - 11:00) [Registration deadline: 30.11.20]_
--   [Mock exam](./mock_exam/WS1920_EEMP_exam_PT1.ipynb)
-	- [Solutions to mock exam](./mock_exam/WS1920_EEMP_exam_PT1_solutions.ipynb)
+    -   _1st: TBA
 
 ### Course content
 
@@ -28,14 +26,14 @@ _Note: content will become available sequentially as the time of the session app
 	- [Video lecture 2](https://drive.google.com/file/d/1_ApPkeFhP--Vosbn4H0S91JJPa1VCBgV/view?usp=sharing)
 	- [Notebook](./notebooks/managementPractices.ipynb)
 -   Part 3: [Statistical Tests](./slides/Eval2020_3.pdf)
--   Part 4: [Predictions and Machine Learning](./slides/Eval2020_4.pdf)
-	- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
+-   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf) UPDATE NOV, 30
+-   Part 4: [Predictions and Machine Learning]<!--(./slides/Eval2020_4.pdf)-->
+	<!--- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
 	- [Exercise solutions (decision trees and random forests)](./notebooks/exercises_dt_and_rf.ipynb)
 	- [Exercise solutions (case study 1)](./notebooks/exercises_case_study_1.ipynb)
-	- [Exercise solutions (case study 2)](./notebooks/exercises_case_study_2.ipynb)
--   Part 5: [Regression and Causality](./slides/Eval2020_5&6.pdf) UPDATE NOV, 30
+	- [Exercise solutions (case study 2)](./notebooks/exercises_case_study_2.ipynb)-->
 <!-- -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)-->
 <!-- %% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)-->
 
