@@ -17,7 +17,7 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 
 _Note: content will become available sequentially as the time of the session approaches._
 
--   Part 0: [Introduction to Python](./slides/Eval2020_0.pdf)
+-   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF)
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
     - [Exercises](./notebooks/EEMP_intro_ex.ipynb)
 -   Part 1: [Introduction to Empirical Evaluation of Management Practices](./slides/Eval2020_1&2.pdf)
