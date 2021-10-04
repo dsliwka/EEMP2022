@@ -20,14 +20,12 @@ _Note: content will become available sequentially as the time of the session app
 -   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF)
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
     - [Exercises](./notebooks/EEMP_intro_ex.ipynb)
--   Part 1: [Introduction to Empirical Evaluation of Management Practices](./slides/Eval2020_1&2.pdf)
--   Part 2: [Regression Essentials](./slides/Eval2020_1&2.pdf)
-	- [Video lecture 1](https://drive.google.com/file/d/1w4hfk8V1paqT9ClddoAptx1oIdrhoHMO/view?usp=sharing)
-	- [Video lecture 2](https://drive.google.com/file/d/1_ApPkeFhP--Vosbn4H0S91JJPa1VCBgV/view?usp=sharing)
-	- [Notebook](./notebooks/managementPractices.ipynb)
--   Part 3: [Statistical Tests](./slides/Eval2020_3.pdf)
--   Part 4: [Regression and Causality](./slides/Eval2020_5&6.pdf) UPDATE NOV, 30
--   Part 5: Predictions and Machine Learning<!--(./slides/Eval2020_4.pdf)-->
+-   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
+-   Part 2: [Regressions](./slides/Eval2021_2.pdf)
+-   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
+-   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
+-   Part 5: [Panel Data](./slides/Eval2021_5.pdf)
+-   Part 6: Predictions and Machine Learning<!--(./slides/Eval2020_4.pdf)-->
 	<!--- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
@@ -60,9 +58,3 @@ _Note: content will become available sequentially as the time of the session app
     -   Python for Data Analysi [McKinney]
     -   Applied Predictive Modeling [Kuhn, Johnson]
     -   Andrea Ichino's [lecture slides](http://www.andreaichino.it/teaching_material.html) (for some links to standard econometrics courses)
-
-### Data
-
--   [Employee dataset](https://raw.githubusercontent.com/lemepe/EEMP/master/python_intro/Employee_data.csv)
--   [Ockenfels/Sliwka/Werner (2015)](https://raw.githubusercontent.com/dsliwka/bms/master/libraryExpData.csv)
-<!-- %% -   [Default](https://raw.githubusercontent.com/jeshan49/EEMP2019/master/content/part-5/part-5-1/Default.csv)-->
