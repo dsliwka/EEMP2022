@@ -9,7 +9,7 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 ### Organizational issues
 
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ in the first term of the semester.
--   Please note that _all_ sessions will take place in Zoom (See information on ILIAS).
+-   Please note that _all_ sessions will take place in Zoom (See information on [here](./zoom.pdf)).
 -   **Exam dates:**
     -   1st: TBA
 
