@@ -19,7 +19,7 @@ _Note: content will become available sequentially as the time of the session app
 
 -   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF)
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
-    - [Exercises](./notebooks/EEMP_quiz.ipynb)
+    - [Exercises](./notebooks/EEMP_quiz.ipynb), [Solution](./notebooks/EEMP_quiz_answers.ipynb)
 -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
 -   Part 2: [Regressions](./slides/Eval2021_2.pdf)
 -   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
