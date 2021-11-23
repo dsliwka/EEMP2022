@@ -12,6 +12,7 @@ _Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
 -   Please note that _all_ sessions will take place in Zoom (See information on [here](./zoom.pdf)).
 -   **Exam dates:**
     -   1st: 18.12.2021 (10:00 - 11:00)
+    -   [Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb)
 
 ### Course content
 
