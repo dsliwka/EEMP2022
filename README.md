@@ -26,6 +26,7 @@ _Note: content will become available sequentially as the time of the session app
 -   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
 -   Part 5: [Panel Data](./slides/Eval2021_5.pdf)
 -   Part 6: [Predictions and Machine Learning](./slides/Eval2021_6.pdf)
+    - [Case study solution](./notebooks/Ex5_2021.ipynb)  
 	<!--- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
