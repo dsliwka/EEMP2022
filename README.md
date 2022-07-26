@@ -2,16 +2,15 @@
 
 ### University of Cologne
 
-#### Winter 2021/22
+#### Winter 2022/23
 
-_Prof. Dr. Dirk Sliwka and Jesper Armouti-Hansen_
+_Prof. Dr. Dirk Sliwka and Sander Kraaij_
 
 ### Organizational issues
 
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ in the first term of the semester.
--   Please note that _all_ sessions will take place in Zoom (See information on [here](./zoom.pdf)).
 -   **Exam dates:**
-    -   1st: 18.12.2021 (10:00 - 11:00)
+    -   To be added
     -   [Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb)
 
 ### Course content
@@ -20,7 +19,7 @@ _Note: content will become available sequentially as the time of the session app
 
 -   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF)
     - [Notebook](./notebooks/EEMP_python_intro.ipynb)
-    - [Exercises](./notebooks/EEMP_quiz.ipynb), [Solution](./notebooks/EEMP_quiz_answers.ipynb)
+    - [Exercises](./notebooks/EEMP_quiz.ipynb)
 -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
 -   Part 2: [Regressions](./slides/Eval2021_2.pdf)
 -   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
