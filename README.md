@@ -9,24 +9,26 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 ### Organizational issues
 
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ in the first term of the semester.
+-   **All sessions will take place in seminar room 3.206 in the SSC building, not in the room stated on the official KLIPS schedule.**
 -   **Exam dates:**
-    -   To be added
-    -   [Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb)
+    -   November 29, 2022, 10:00-11:00
+    -	March 15, 2023, 10:00-11:00
+   <!-- -   [Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb) -->
 
 ### Course content
 
 _Note: content will become available sequentially as the time of the session approaches._
 
--   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF)
-    - [Notebook](./notebooks/EEMP_python_intro.ipynb)
-    - [Exercises](./notebooks/EEMP_quiz.ipynb)
--   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
--   Part 2: [Regressions](./slides/Eval2021_2.pdf)
--   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
--   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
--   Part 5: [Panel Data](./slides/Eval2021_5.pdf)
--   Part 6: [Predictions and Machine Learning](./slides/Eval2021_6.pdf)
-    - [Case study solution](./notebooks/Ex_5.ipynb)  
+<!-- -   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF) -->
+  <!--  - [Notebook](./notebooks/EEMP_python_intro.ipynb)
+   <!-- - [Exercises](./notebooks/EEMP_quiz.ipynb)
+<!-- -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
+<!-- -   Part 2: [Regressions](./slides/Eval2021_2.pdf)
+<!-- -   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
+<!-- -   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
+<!-- -   Part 5: [Panel Data](./slides/Eval2021_5.pdf)
+<!-- -   Part 6: [Predictions and Machine Learning](./slides/Eval2021_6.pdf)
+    <!-- - [Case study solution](./notebooks/Ex_5.ipynb)
 	<!--- [Exercise solutions (regression)](./notebooks/exercises_regression.ipynb)
 	- [Exercise solutions (classification)](./notebooks/exercises_classification.ipynb)
 	- [Exercise solutions (selection and assessment)](./notebooks/exercises_assessment.ipynb)
