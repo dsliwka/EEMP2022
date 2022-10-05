@@ -15,7 +15,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	-   You can find information about this service [here](https://colab.research.google.com/).
 	-   Please bring a laptop because we will be interactively working with python in Google Colab.
 	-   Since Google Colab requires an internet connection, please make sure yours is working.
-	-   If you do not have a Google account, you can create one for free. You do not need to add any personal information to your account if you do not want to.
+	-   Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account if you do not want to.
 -   **Exam dates:**
     -   November 29, 2022, 10:00-11:00
     -	March 15, 2023, 10:00-11:00
