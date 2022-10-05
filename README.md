@@ -57,7 +57,7 @@ _Note: content will become available sequentially as the time of the session app
     -   [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/) [James, Witten, Hastie, Tibshirani]
 -   **Additional literature:**
     -   Mastering Metrics: The Path from Cause to Effect [Angrist, Pischke]
+    -   Introduction to machine learning with Python: a guide for data scientists [Müller, Guido]
     -   Introductory Econometrics: A Modern Approach [Wooldridge]
     -   [The Elements of Statistical Learning - Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) [Hastie, Tibshirani, Friedman]
-    -   Introduction to machine learning with Python: a guide for data scientists [Müller, Guido]
     -   Andrea Ichino's [lecture slides](http://www.andreaichino.it/teaching_material.html) (for some links to standard econometrics courses)
