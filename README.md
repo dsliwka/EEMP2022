@@ -1,4 +1,4 @@
-## Empirical Evaluation of Management Practices I
+## Empirical Evaluation of Management Practices
 
 ### University of Cologne
 
@@ -59,7 +59,5 @@ _Note: content will become available sequentially as the time of the session app
     -   Mastering Metrics: The Path from Cause to Effect [Angrist, Pischke]
     -   Introductory Econometrics: A Modern Approach [Wooldridge]
     -   [The Elements of Statistical Learning - Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) [Hastie, Tibshirani, Friedman]
-    -   Hands-On Machine Learning with Scikit-Learn & Tensorflow [Géron]
-    -   Python for Data Analysi [McKinney]
-    -   Applied Predictive Modeling [Kuhn, Johnson]
+    -   Introduction to machine learning with Python: a guide for data scientists [Müller, Guido]
     -   Andrea Ichino's [lecture slides](http://www.andreaichino.it/teaching_material.html) (for some links to standard econometrics courses)
