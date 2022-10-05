@@ -12,9 +12,10 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 -   **All sessions will take place in seminar room 3.206 on the 3rd floor of the SSC building, not in the room stated on the official KLIPS schedule.**
 -   Please bring a laptop as you will be working with python yourself.
 -   We will be using Google Colab throughout the course, **including the exam**.
-	-   You can find information [here](https://colab.research.google.com/)
+	-   You can find information about this service [here](https://colab.research.google.com/).
 	-   Please bring a laptop because we will be interactively working with python in Google Colab.
 	-   Since Google Colab requires an internet connection, please make sure yours is working.
+	-   If you do not have a Google account, you can create one for free. You do not need to add any personal information to your account if you do not want to.
 -   **Exam dates:**
     -   November 29, 2022, 10:00-11:00
     -	March 15, 2023, 10:00-11:00
