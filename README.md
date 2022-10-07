@@ -59,7 +59,7 @@ _Note: content will become available sequentially as the time of the session app
 ### Literature
 The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition.
 -   **Main literature**
-    -   Mostly Harmless Econometrics [Angrist, Pischke]
+    -   Mostly Harmless Econometrics: An Empiricist's Companion [Angrist, Pischke]
     -   [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/) [James, Witten, Hastie, Tibshirani]
 -   **Additional literature:**
     -   Mastering Metrics: The Path from Cause to Effect [Angrist, Pischke]
