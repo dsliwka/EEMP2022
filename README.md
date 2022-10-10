@@ -27,7 +27,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 
 _Note: content will become available sequentially as the time of the session approaches._
 
--   Part 0: [Introduction to python](https://htmlpreview.github.io/?https://github.com/dsliwka/EEMP2022/tree/main/notebooks/EEMP_python_intro.html)
+-   Part 0: Introduction to python
 	- [Notebook](./notebooks/EEMP_python_intro.ipynb)
 	- [Exercises](./notebooks/EEMP_quiz.ipynb)
 -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
