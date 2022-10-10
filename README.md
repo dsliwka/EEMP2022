@@ -27,10 +27,10 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 
 _Note: content will become available sequentially as the time of the session approaches._
 
-<!-- -   Part 0: [Introduction to Python](./slides/Eval2021_0.PDF) -->
+-   Part 0: [Introduction to python](./notebooks/EEMP_python_intro.html)
   <!--  - [Notebook](./notebooks/EEMP_python_intro.ipynb)
    <!-- - [Exercises](./notebooks/EEMP_quiz.ipynb)
-<!-- -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
+-   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2021_1.pdf)
 <!-- -   Part 2: [Regressions](./slides/Eval2021_2.pdf)
 <!-- -   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
 <!-- -   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
@@ -46,7 +46,7 @@ _Note: content will become available sequentially as the time of the session app
 <!-- -   Part 7: [Using Panel Data](https://github.com/dsliwka/bms/blob/master/slidesPanelData.pdf)-->
 <!-- %% -   Part 8: [Statistical Power](https://github.com/dsliwka/bms/blob/master/slidesStatistPower.pdf)-->
 
-<!-- %% **Note:** In case you have troubles loading the respective notebook on Github, try to use the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.-->
+<!-- %% **Note:** In case you have troubles loading the respective notebook on Github, try using the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.-->
 
 
 <!-- %% ### Updates-->
