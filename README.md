@@ -29,7 +29,8 @@ _Note: content will become available sequentially as the time of the session app
 
 -   Part 0: Introduction to python
 	- [Notebook](./notebooks/EEMP_python_intro.ipynb)
-	- [Exercises](./notebooks/EEMP_quiz.ipynb)
+	- [Exercises](./notebooks/EEMP_quiz.ipynb), [Colab link](https://colab.research.google.com/drive/16UjsEMWy_VZIeEFpxj2xO-PVkmi2kg9-?usp=sharing)
+	- [Solutions](./notebooks/EEMP_quiz_answers.ipynb), [Colab link](https://colab.research.google.com/drive/1IB1QiEY5grGPAxpA-MazyRaPZTl1iEnW?usp=sharing)
 -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2022_1.pdf)
 <!-- -   Part 2: [Regressions](./slides/Eval2021_2.pdf)
 <!-- -   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
