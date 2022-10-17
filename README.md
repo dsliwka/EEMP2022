@@ -32,7 +32,7 @@ _Note: content will become available sequentially as the time of the session app
 	- [Exercises](./notebooks/EEMP_quiz.ipynb), [Colab link](https://colab.research.google.com/drive/16UjsEMWy_VZIeEFpxj2xO-PVkmi2kg9-?usp=sharing)
 	- [Solutions](./notebooks/EEMP_quiz_answers.ipynb), [Colab link](https://colab.research.google.com/drive/1IB1QiEY5grGPAxpA-MazyRaPZTl1iEnW?usp=sharing)
 -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2022_1.pdf)
-<!-- -   Part 2: [Regressions](./slides/Eval2021_2.pdf)
+-   Part 2: [Regressions](./slides/Eval2022_2.pdf)
 <!-- -   Part 3: [Statistical Tests](./slides/Eval2021_3.pdf)
 <!-- -   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
 <!-- -   Part 5: [Panel Data](./slides/Eval2021_5.pdf)
