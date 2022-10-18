@@ -53,8 +53,10 @@ _Note: content will become available sequentially as the time of the session app
 ### Updates
 
 - Python intro (last updated 2022-10-18)
-	- Bitwise operators
-	- First Seaborn graph
+	- Added more on bitwise operators
+	- Removed useless syntax from first Seaborn graph
+- Lecture 1 (last updated 2022-10-18)
+	- Slide 25: changed "total engagement score" to "mean engagement score"
 
 ### Literature
 The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition.
