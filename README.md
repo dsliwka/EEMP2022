@@ -50,12 +50,11 @@ _Note: content will become available sequentially as the time of the session app
 <!-- %% **Note:** In case you have troubles loading the respective notebook on Github, try using the [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/) to display the files.-->
 
 
-<!-- %% ### Updates-->
+### Updates
 
-<!-- %% - Part 1-4: [updates slides](https://github.com/dsliwka/bms/blob/master/part1to4update.pdf)-->
-<!-- %% - [Notebook to start with](https://github.com/dsliwka/bms/blob/master/Start.ipynb)-->
-<!-- %% - [Notebook for sales simulation with Fixed effects](https://github.com/dsliwka/bms/blob/master/SalesSimFE.ipynb)-->
-
+- Python intro (last updated 2022-10-18)
+	- Bitwise operators
+	- First Seaborn graph
 
 ### Literature
 The lecture and tutorial materials we provide will enable you to prepare for the exam. None of the sources below are compulsory, but they might be helpful in addition.
