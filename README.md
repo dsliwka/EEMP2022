@@ -9,8 +9,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 ### Organizational issues
 
 -   Sessions take place on _Mondays (14:00-15:30, 16:00-17:30)_ and _Tuesdays (10:00-11:30)_ during the first term of the semester.
-	- Mondays: 100 Hörsaal VI (main building)
-	- Tuesdays: 101 Seminarraum S241 (WiSo building)
+	- NOTE: Mondays & Tuesdays: Seminar room 3.206 in the SSC building 
 <!-- -   **All sessions will take place in seminar room 3.206 on the 3rd floor of the SSC building, not in the room stated on the official KLIPS schedule.** -->
 -   Please bring a laptop as you will be working with python yourself.
 -   We will be using Google Colab throughout the course, **including the exam**.
