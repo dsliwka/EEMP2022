@@ -33,7 +33,7 @@ _Note: content will become available sequentially as the time of the session app
 -   Part 1: [Survey Data and the Reliability of Scales](./slides/Eval2022_1.pdf)
 -   Part 2: [Regressions](./slides/Eval2022_2.pdf)
 -   Part 3: [Statistical Tests](./slides/Eval2022_3.pdf)
-<!-- -   Part 4: [Regression and Causality](./slides/Eval2021_4.pdf)
+-   Part 4: [Regression and Causality](./slides/Eval2022_4.pdf)
 <!-- -   Part 5: [Panel Data](./slides/Eval2021_5.pdf)
 <!-- -   Part 6: [Predictions and Machine Learning](./slides/Eval2021_6.pdf)
     <!-- - [Case study solution](./notebooks/Ex_5.ipynb)
