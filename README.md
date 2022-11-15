@@ -20,7 +20,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 -   **Exam dates:**
     -   November 29, 2022, 10:00-11:00
     -	March 15, 2023, 10:00-11:00
-   <!-- -   [Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb) -->
+    -	[Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb) [Solutions](./notebooks/WS1920_EEMP_exam_PT1_solutions.ipynb)
 
 ### Course content
 
