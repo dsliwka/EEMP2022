@@ -19,6 +19,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 -   **Exam dates:**
     -   November 29, 2022, 10:00-11:00, 101 Hörsaal XXV (Gutenberg HS) **NOTE: NOT THE NORMAL LECTURE ROOM**
     -	March 15, 2023, 10:00-11:00, 105 Hörsaal A2
+    -	You will write the exam on your own laptop, so please bring it
     -	[Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb) - [Solutions](./notebooks/WS1920_EEMP_exam_PT1_solutions.ipynb)
 
 ### Course content
