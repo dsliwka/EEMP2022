@@ -18,8 +18,8 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 	-   Since Google Colab requires an internet connection, please make sure yours is working.
 	-   Google Colab also requires a Google account. If you do not have an account, you can create one for free. You do not need to add any personal information to your account if you do not want to.
 -   **Exam dates:**
-    -   November 29, 2022, 10:00-11:00
-    -	March 15, 2023, 10:00-11:00
+    -   November 29, 2022, 10:00-11:00, 101 Hörsaal XXV (Gutenberg HS) **NOTE: NOT THE NORMAL LECTURE ROOM**
+    -	March 15, 2023, 10:00-11:00, 105 Hörsaal A2
     -	[Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb) - [Solutions](./notebooks/WS1920_EEMP_exam_PT1_solutions.ipynb)
 
 ### Course content
