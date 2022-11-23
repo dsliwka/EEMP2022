@@ -24,7 +24,7 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
     -	This is an open book exam, so you may use books and online resources. However, you're not allowed to communicate with anybody. We will check this by looking at your screens. Furthermore, we can see if you're collaborating on Colab.
     -	You will access the exam through a link written on the board in the exam room. The link only allows you to view the exam, so before you start working on it, you need to create a copy using "File > Save a copy in Drive" in Colab. You must rename this copy according to the instructions written at the top of the exam.
     -	At the end, you will share your exam with eemp.exams@gmail.com using the "Share" button in Colab.
-    -	[Instruction video](https://onedrive.live.com/?authkey=%21AMWOPjDJqEhFU6U&cid=492CFFDBC915BE1A&id=492CFFDBC915BE1A%21137316&parId=492CFFDBC915BE1A%21136598&o=OneUp) This video is not up to date but gives you a general idea on how to exam will work.
+    -	This [video](https://onedrive.live.com/?authkey=%21AMWOPjDJqEhFU6U&cid=492CFFDBC915BE1A&id=492CFFDBC915BE1A%21137316&parId=492CFFDBC915BE1A%21136598&o=OneUp) is not up to date but gives you a general idea on how to exam will work.
     -	[Mock exam](./notebooks/WS1920_EEMP_exam_PT1.ipynb) - [Solutions](./notebooks/WS1920_EEMP_exam_PT1_solutions.ipynb)
 
 ### Course content
